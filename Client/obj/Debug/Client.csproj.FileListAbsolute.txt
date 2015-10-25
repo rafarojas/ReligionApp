@@ -1,0 +1,8 @@
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\bin\Debug\Client.exe.config
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\bin\Debug\Client.exe
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\bin\Debug\Client.pdb
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\bin\Debug\BugDiggerAPI.dll
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\bin\Debug\BugDiggerAPI.pdb
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\obj\Debug\Client.exe
+C:\Users\Public\ProyectosDDC\BugDiggerAPI\Client\obj\Debug\Client.pdb
